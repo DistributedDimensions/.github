@@ -14,7 +14,7 @@ A plugin system that splits a Minecraft world across **one Paper server per dime
   [Overworld]  [Nether]   [End]
 ```
 
-Portals, inventory, XP, hunger, gamemode and chat are preserved across servers in real time. Entities (mobs, minecarts, items…) are transferred through portals just like in vanilla — with no gameplay drawbacks.
+Portals, inventory, XP, hunger, gamemode and chat are preserved across servers in real time. Entities (mobs, minecarts, items…) are transferred through portals just like in vanilla.
 
 → [`DistributedDimensions`](https://github.com/your-org/DistributedDimensions)
 
